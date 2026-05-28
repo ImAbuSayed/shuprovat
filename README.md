@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shuprovat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Shuprovat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shuprovat/) |
+| **Get License** | [Music Rights & Licensing for Shuprovat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shuprovat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নীল আকাশের ঐ সীমানায় তোমায় খুঁজি সারাক্ষণ
+> মিষ্টি তোমার হাসিতে আজ হারিয়েছে এই মন
+> মেঘের দেশে ভাসবো দুজন রাখবো হাতে হাত
+> তোমার প্রেমে পাগল আমি জানাই সুপ্রভাত
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
