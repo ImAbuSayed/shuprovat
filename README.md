@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shuprovat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Shuprovat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shuprovat/) |
+| **Get License** | [Secure Licensing Rights for Shuprovat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shuprovat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `632c9160be246e56661ce74feb486e2894659261030b5046e03df6a7111ca436` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shuprovat
+
+This log tracks the cryptographic history and versioning for the song **Shuprovat** (shuprovat).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T19:29:41.185676 | `v1` | `632c9160be246e56661ce74feb486e2894659261030b5046e03df6a7111ca436` | `6e60427ef365c5f730a431b749d37cec46554ad0562c90f8187a8af2de02e592` | `2026-05-28_shuprovat-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
